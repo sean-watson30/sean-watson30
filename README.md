@@ -4,8 +4,9 @@ I'm Sean, and I am a Software Engineer. I'm currently attending a bootcamp with 
 ______________________________________________________
 
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning JavaScript, jQuery, HTML, and CSS.
-- 🔭 I’m currently working on my first project with GA.
+- 🌱 I’m currently learning React and the MERN stack. Next we'll be covering Python.
+- 🌱 Experienced with JavaScript, jQuery, HTML, CSS, MongoDB, NodeJS and Express
+- 🔭 I’m currently working on my first group project with GA.
 - 📫 How to reach me: sean_wason30@me.com
 - 💬 Ask me about my cruise ship days through southern Europe, or anything you'd like!
 ______________________________________________________
