@@ -1,13 +1,12 @@
 ### Hi! 👋
 
-Hi, I’m Sean. I’m a software engineer and I’m currently completing a coding bootcamp with General Assembly, working with Python, Django, and the MERN stack. My previous career was in the arts: I’ve danced professionally in Denver, Chicago, Milwaukee and for Royal Caribbean Cruises. I was also a massage therapist for Disney on Oahu, Hawai’i. I'm taking the creativity I've honed over my career and am now implementing it in software engineering. 
+Hi, I’m Sean. I’m a software engineer and I’ve graduated a coding bootcamp with General Assembly, working with Python, Django, and the MERN stack. My previous career was in the arts: I’ve danced professionally in Denver, Chicago, Milwaukee and for Royal Caribbean Cruises. I was also a massage therapist for Disney on Oahu, Hawai’i. I'm taking the creativity I've honed over my career and am now implementing it in software engineering. 
 
 While I've loved everywhere I've worked, I truly feel like entering the coding world is a home-coming: I play D&D(2e) and may or may not have a collection of Harry Potter wands. So let's just say I've found my people. I love video games 🎮, dancing 🩰, cartoons 📺, period dramas 🎭, and Dungeons & Dragons 🧙🏻‍♂️. Come say hi!
 ______________________________________________________
 
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning Python and Django.
-- 🌱 Experienced with React, MongoDB, NodeJS and Express, JavaScript, jQuery, HTML, and CSS
+- 🌱 Experienced with React, MongoDB, NodeJS, Express, Python, Django, JavaScript, jQuery, HTML, CSS and Sass
 - 🔭 I’m currently gearing up for our last big projects at GA.
 - 📫 How to reach me: sean_wason30@me.com
 - 💬 Ask me about my cruise ship days through southern Europe, or anything else that you'd like!
