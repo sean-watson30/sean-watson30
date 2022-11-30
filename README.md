@@ -15,7 +15,7 @@ ______________________________________________________
 
 ### SOFTWARE DEVELOPMENT EXPERIENCE
 
-**Full Stack Developer  |  The Opportunity Project: General Assembly x US Census Bureau	               09/2022 - Present**
+**Full Stack Developer  |  The Opportunity Project: General Assembly x US Census Bureau         09/2022 - Present**
 [Grant Guide](https://grantguide.herokuapp.com/)  |  [GitHub](https://github.com/sean-watson30/grant-access)  (React, Express, NodeJS, JavaScript, JSX, TailWindCSS, Grant API, MongoDB Atlas and Mongoose)
 Single-page web application for under-resourced communities to increase accessibility of finding and applying for environmental remediation grant opportunities by the Bipartisan Infrastructure Law
 * Collaborated with a team of Full Stack Software Engineers, UX/UI Designers, and Data Scientists 
@@ -40,13 +40,11 @@ Trivia game with tiered difficulty connecting API trivia questions to frontend g
 ### PROFESSIONAL EXPERIENCE
 
 **Director of Conservatory Operations  |  Colorado Conservatory of Dance | Broomfield, CO		              01/2021 - 07/2022**
-
 * Supervised, trained, and implemented communication solutions for 25 administrators and faculty members in organization
 * Initiated improvements to operational excellence and technology solutions, resulting in a 50% decrease in administrative expenditures in under 6 months
 * Managed business workflows and troubleshooting for return to a hybrid-model during the COVID-19 pandemic
 
 **Licensed Massage Therapist  |  Laniwai Spa, a Disney Spa | Ko ‘Olina, HI	11/2016 - 12/2020**
-
 * Analyzed client needs providing a variety of services and best practices to over 25 clients/week in a fast-paced environment
 * Would train and collaborate with incoming employees on customer need analysis and detail-oriented presentation
 
