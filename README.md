@@ -51,6 +51,6 @@ Trivia game with tiered difficulty connecting API trivia questions to frontend g
 
 ### EDUCATION
 
-Software Engineering Immersive  |  General Assembly  |  (Remote)  Denver, CO  	07/2022
-Massage Therapist Certification  |  Boulder College of Massage Therapy  |  Boulder, CO               	 10/2013
+Software Engineering Immersive  |  General Assembly  |  (Remote)  Denver, CO  	07/2022 <br/>
+Massage Therapist Certification  |  Boulder College of Massage Therapy  |  Boulder, CO               	 10/2013 <br/>
 Bachelor of Fine Arts in Dance, cum laude  |  Cornish College of the Arts  |  Seattle, WA 	 05/2004
