@@ -16,7 +16,7 @@ ______________________________________________________
 
 **Full Stack Developer  |  The Opportunity Project: General Assembly x US Census Bureau         09/2022 - Present** <br/>
 
-[Grant Guide](https://grantguide.herokuapp.com/)  |  [GitHub](https://github.com/sean-watson30/grant-access)  (React, Express, NodeJS, JavaScript, JSX, TailWindCSS, Grant API, MongoDB Atlas and Mongoose)
+[Grant Guide](https://grant-guide.herokuapp.com/)  |  [GitHub](https://github.com/sean-watson30/grant-access)  (React, Express, NodeJS, JavaScript, JSX, TailWindCSS, Grant API, MongoDB Atlas and Mongoose)
 Single-page web application for under-resourced communities to increase accessibility of finding and applying for environmental remediation grant opportunities by the Bipartisan Infrastructure Law
 * Collaborated with a team of Full Stack Software Engineers, UX/UI Designers, and Data Scientists 
 * Wrote and refactored code to enhance scalability, functionality and readability
